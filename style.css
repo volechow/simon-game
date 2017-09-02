@@ -1,0 +1,21 @@
+.field  {
+	border: solid black 1px;
+	height: 50px;
+	width: 50px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#blue {
+	border-color: blue;
+}
+#red {
+	border-color: red;
+}
+#green {
+	border-color: green;
+}
+#yellow {
+	border-color: yellow;
+}
